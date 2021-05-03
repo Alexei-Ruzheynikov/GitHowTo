@@ -1,0 +1,8 @@
+[core]
+	repositoryformatversion = 0
+	filemode = false
+	bare = true
+	symlinks = false
+	ignorecase = true
+[remote "origin"]
+	url = D:/bykadorov.group/Веб-старт/homeworks/lesson-15/lesson-15-dop/git_tutorial/work/hello
